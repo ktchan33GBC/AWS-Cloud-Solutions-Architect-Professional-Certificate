@@ -19,7 +19,7 @@
 ## Explore More
 Certificate link: https://www.coursera.org/account/accomplishments/professional-cert/FLMAVSXGY3JT
 
-![Certificate](https://github.com/ktchan33GBC/Google-Business-Intelligence-Professional-Certificate/blob/main/img/Specialization_Certificate_Coursera_Google_Business_Intelligence_Professional_Certificate.jpg)
+![Certificate](https://github.com/ktchan33GBC/AWS-Cloud-Solutions-Architect-Professional-Certificate/blob/main/img/Specialization_Certificate_Coursera_AWS_Cloud_Solutions_Architect_Professional_Certificate.jpg)
 
 <!-- USAGE EXAMPLES -->
 
