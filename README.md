@@ -9,10 +9,10 @@
 
 
 ## Specialization Curriculum
-+ ### [Course_1_AWS_Cloud_Technical_Essentials](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_1_Guided_Tour_of_Machine_Learning_in_Finance)
-+ ### [Course_2_Architecting_Solutions_on_AWS](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_2_Fundamentals_of_Machine_Learning_in_Finance)
-+ ### [Course_3_Introduction_to_Designing_Data_Lakes_on_AWS](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_3_Reinforcement_Learning_in_Finance)
-+ ### [Course_4_Exam_Prep_AWS_Certified_Solutions_Architect_Associate](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_3_Reinforcement_Learning_in_Finance)
++ ### [Course_1_AWS_Cloud_Technical_Essentials](https://github.com/ktchan33GBC/AWS-Cloud-Solutions-Architect-Professional-Certificate/tree/main/Course_1_AWS_Cloud_Technical_Essentials)
++ ### [Course_2_Architecting_Solutions_on_AWS](https://github.com/ktchan33GBC/AWS-Cloud-Solutions-Architect-Professional-Certificate/tree/main/Course_2_Architecting_Solutions_on_AWS)
++ ### [Course_3_Introduction_to_Designing_Data_Lakes_on_AWS](https://github.com/ktchan33GBC/AWS-Cloud-Solutions-Architect-Professional-Certificate/tree/main/Course_3_Introduction_to_Designing_Data_Lakes_on_AWS)
++ ### [Course_4_Exam_Prep_AWS_Certified_Solutions_Architect_Associate](https://github.com/ktchan33GBC/AWS-Cloud-Solutions-Architect-Professional-Certificate/tree/main/Course_4_Exam_Prep_AWS_Certified_Solutions_Architect_Associate)
 
 
 
