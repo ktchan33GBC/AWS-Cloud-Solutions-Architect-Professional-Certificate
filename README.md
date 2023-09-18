@@ -38,6 +38,5 @@ Amazon S3 Data Lake Ingestion and Transformation Design Project
 + Implemented dashboard creation to visualize insights derived from the data, meeting the company's requirements.
 
 
-
-![Result](https://github.com/ktchan33GBC/Google-Advanced-Data-Analytics-Professional-Certificate/blob/main/Course_7_Google_Advanced_Data_Analytics_Capstone/result_executive_summary.jpg)
+![Result](https://github.com/ktchan33GBC/AWS-Cloud-Solutions-Architect-Professional-Certificate/blob/main/img/result_data_lake.pngg)
 
