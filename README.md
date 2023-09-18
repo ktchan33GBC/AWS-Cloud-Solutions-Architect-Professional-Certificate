@@ -4,7 +4,10 @@
 
 + Specialization provided by New York University , Available on Coursera platform.
 
-+ Focus: Explain how Reinforcement Learning is used for stock trading, and become familiar with popular approaches to modeling market frictions and feedback effects for option trading.  
++ Focus: 
+    + Design architectural solutions, whether designing for cost, performance, and/or operational excellence, to address common business challenges.
+    + Create and operate a data lake in a secure and scalable way, ingest and organize data into the data lake, and optimize performance and costs.
+
 
 
 
