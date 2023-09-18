@@ -2,7 +2,7 @@
  
 ## About this Specialization:
 
-+ Specialization provided by New York University , Available on Coursera platform.
++ Specialization provided by Amazon Web Services , Available on Coursera platform.
 
 + Focus: 
     + Design architectural solutions, whether designing for cost, performance, and/or operational excellence, to address common business challenges.
@@ -29,13 +29,14 @@ Certificate link: https://www.coursera.org/account/accomplishments/professional-
 ## Important Project
 
 
-### Providing data-driven suggestions for HR of Salifort Motors to deal with high employee retention rate
-[Notebook](https://github.com/ktchan33GBC/Google-Advanced-Data-Analytics-Professional-Certificate/blob/main/Course_7_Google_Advanced_Data_Analytics_Capstone/Captstone_Proj_Salifort_Motors_employee_retention.ipynb)
+Amazon S3 Data Lake Ingestion and Transformation Design Project
+[Documents](https://github.com/ktchan33GBC/AWS-Cloud-Solutions-Architect-Professional-Certificate/tree/main/Course_3_Introduction_to_Designing_Data_Lakes_on_AWS)
 
 
-+ Assisted Salifort Motors in predicting employee attrition and identifying departure reasons using predictive models, including regression, Decision Tree, and Random Forest models.
-+ Conducted a comparison of feature importance between the Random Forest and Decision Tree models for employee attrition analysis.
-+ Presented concise one-page project insights to external stakeholders as the data professional at Salifort Motors.
++ Designed data ingestion solutions for IoT sensors, a historical database, and third-party data sources into an Amazon S3-based data lake.
++ Developed data cleaning and transformation strategies for analysis, aligning with the company's preference for cloud-based technologies like Apache Hadoop.
++ Implemented dashboard creation to visualize insights derived from the data, meeting the company's requirements.
+
 
 
 ![Result](https://github.com/ktchan33GBC/Google-Advanced-Data-Analytics-Professional-Certificate/blob/main/Course_7_Google_Advanced_Data_Analytics_Capstone/result_executive_summary.jpg)
