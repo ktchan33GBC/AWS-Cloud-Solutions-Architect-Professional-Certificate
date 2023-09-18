@@ -29,6 +29,25 @@ Certificate link: https://www.coursera.org/account/accomplishments/professional-
 ## Important Project
 
 
+
+
+
+AWS Architecting Solutions for three-tier application and for On-Premises Workloads
+[Documents](https://github.com/ktchan33GBC/AWS-Cloud-Solutions-Architect-Professional-Certificate/tree/main/Course_3_Introduction_to_Designing_Data_Lakes_on_AWS)
+
+
++ On-Premises Workload Migration: Transitioning two critical on-premises workloads to the cloud.
++ Three-Tier Application: Migrating a dynamic website's three-tier architecture to ensure high availability and scalability.
++ Data Analytics Enhancement: Modernizing an Apache Hadoop-based analytics workload for improved insights and resilience in the cloud.
+
+
+![Result](https://github.com/ktchan33GBC/AWS-Cloud-Solutions-Architect-Professional-Certificate/blob/main/img/result_data_lake.pngg)
+
+
+
+
+
+
 Amazon S3 Data Lake Ingestion and Transformation Design Project
 [Documents](https://github.com/ktchan33GBC/AWS-Cloud-Solutions-Architect-Professional-Certificate/tree/main/Course_3_Introduction_to_Designing_Data_Lakes_on_AWS)
 
@@ -39,4 +58,8 @@ Amazon S3 Data Lake Ingestion and Transformation Design Project
 
 
 ![Result](https://github.com/ktchan33GBC/AWS-Cloud-Solutions-Architect-Professional-Certificate/blob/main/img/result_data_lake.pngg)
+
+
+
+
 
