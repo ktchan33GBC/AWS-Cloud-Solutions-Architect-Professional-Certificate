@@ -41,7 +41,7 @@ AWS Architecting Solutions for three-tier application and for On-Premises Worklo
 + Data Analytics Enhancement: Modernizing an Apache Hadoop-based analytics workload for improved insights and resilience in the cloud.
 
 
-![Result](https://github.com/ktchan33GBC/AWS-Cloud-Solutions-Architect-Professional-Certificate/blob/main/img/result_data_lake.pngg)
+![Result](https://github.com/ktchan33GBC/AWS-Cloud-Solutions-Architect-Professional-Certificate/blob/main/img/result_data_lake.png)
 
 
 
@@ -57,7 +57,7 @@ Amazon S3 Data Lake Ingestion and Transformation Design Project
 + Implemented dashboard creation to visualize insights derived from the data, meeting the company's requirements.
 
 
-![Result](https://github.com/ktchan33GBC/AWS-Cloud-Solutions-Architect-Professional-Certificate/blob/main/img/result_data_lake.pngg)
+![Result](https://github.com/ktchan33GBC/AWS-Cloud-Solutions-Architect-Professional-Certificate/blob/main/img/result_data_lake.png)
 
 
 
