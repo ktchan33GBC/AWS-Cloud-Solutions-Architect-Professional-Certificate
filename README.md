@@ -32,7 +32,8 @@ Certificate link: https://www.coursera.org/account/accomplishments/professional-
 
 
 
-AWS Architecting Solutions for three-tier application and for On-Premises Workloads
+### AWS Architecting Solutions for three-tier application and for On-Premises Workloads
+
 [Documents](https://github.com/ktchan33GBC/AWS-Cloud-Solutions-Architect-Professional-Certificate/tree/main/Course_2_Architecting_Solutions_on_AWS/Project)
 
 
@@ -49,7 +50,8 @@ AWS Architecting Solutions for three-tier application and for On-Premises Worklo
 
 
 
-Amazon S3 Data Lake Ingestion and Transformation Design Project
+### Amazon S3 Data Lake Ingestion and Transformation Design Project
+
 [Documents](https://github.com/ktchan33GBC/AWS-Cloud-Solutions-Architect-Professional-Certificate/tree/main/Course_3_Introduction_to_Designing_Data_Lakes_on_AWS/Project)
 
 
